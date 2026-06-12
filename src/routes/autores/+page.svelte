@@ -1,3 +1,11 @@
-<h1>Autores</h1>
+<script>
+	import ItemAutor from '../../components/autor/ItemAutor.svelte';
+	import autores from '../../constants/autores';
+</script>
 
-<a href="/autores/george-martin">George R. R. Martin</a>
+<h1 class="text-3xl font-bold">Autores</h1>
+<div class="grid grid-cols-2 gap-4">
+	{#each autores as autor}
+		<ItemAutor {autor} />
+	{/each}
+</div>

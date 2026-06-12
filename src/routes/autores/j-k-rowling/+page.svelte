@@ -1,1 +1,6 @@
-<h1>J.K. Rowling</h1>
+<script>
+	import ConteudoAutor from '../../../components/autor/ConteudoAutor.svelte';
+	import autores from '../../../constants/autores';
+</script>
+
+<ConteudoAutor autor={autores[0]} />

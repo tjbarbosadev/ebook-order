@@ -1,10 +1,9 @@
 const autores = [
-  {
-    id: "j-k-rowling",
-    nome: "J.K. Rowling",
-    imagem:
-      "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-950041970-e1712065084538.jpg",
-    biografia: `
+	{
+		id: 'j-k-rowling',
+		nome: 'J.K. Rowling',
+		imagem: 'https://rollingstone.com.br/wp-content/uploads/gettyimages-1388427445_1.jpg',
+		biografia: `
 # J.K. Rowling
 
 **Joanne Rowling**, mais conhecida pelo pseudônimo **J.K. Rowling**, é uma escritora e produtora britânica, nascida em 31 de julho de 1965, em Yate, Gloucestershire, Inglaterra. Ela é famosa por sua série de livros **"Harry Potter"**, que se tornou um fenômeno mundial e deu origem a uma franquia multimídia de grande sucesso, incluindo filmes, peças de teatro e parques temáticos.
@@ -37,14 +36,14 @@ Rowling casou-se com Neil Murray em 2001 e tem três filhos. Ela é uma filantro
 ---
 
 > *"As palavras são, na minha nada humilde opinião, nossa fonte mais inesgotável de magia."* - J.K. Rowling
-        `,
-  },
-  {
-    id: "j-r-r-tolkien",
-    nome: "J.R.R. Tolkien",
-    imagem:
-      "https://static.wixstatic.com/media/064821_b9fda45205e4495cac3a0d35ba514e86~mv2.jpeg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/064821_b9fda45205e4495cac3a0d35ba514e86~mv2.jpeg",
-    biografia: `
+        `
+	},
+	{
+		id: 'j-r-r-tolkien',
+		nome: 'J.R.R. Tolkien',
+		imagem:
+			'https://static.wixstatic.com/media/064821_b9fda45205e4495cac3a0d35ba514e86~mv2.jpeg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/064821_b9fda45205e4495cac3a0d35ba514e86~mv2.jpeg',
+		biografia: `
 # J.R.R. Tolkien
 
 **John Ronald Reuel Tolkien**, mais conhecido como **J.R.R. Tolkien**, foi um renomado escritor, professor e filólogo britânico, nascido em 3 de janeiro de 1892, em Bloemfontein, África do Sul, e falecido em 2 de setembro de 1973, em Bournemouth, Inglaterra. Ele é amplamente reconhecido como o criador das obras de fantasia **"O Senhor dos Anéis"** (*The Lord of the Rings*) e **"O Hobbit"** (*The Hobbit*), que são consideradas algumas das maiores e mais influentes histórias de fantasia da literatura mundial.
@@ -77,14 +76,14 @@ O impacto de J.R.R. Tolkien na literatura é imenso, e sua criação da Terra M�
 ---
 
 > *"Nem todos os que vagam estão perdidos."* - J.R.R. Tolkien
-        `,
-  },
-  {
-    id: "george-r-r-martin",
-    nome: "George R.R. Martin",
-    imagem:
-      "https://musicaecinema.com/wp-content/uploads/2024/11/george-rr-martin-spin-off-arya-stark-1024x576.webp",
-    biografia: `
+        `
+	},
+	{
+		id: 'george-r-r-martin',
+		nome: 'George R.R. Martin',
+		imagem:
+			'https://rollingstone.com.br/wp-content/uploads/2026/01/George-R.R.-Martin-admite-dificuldade-para-concluir-Os-Ventos-do-Inverno-e-garante-final-diferente-de-Game-of-Thrones-2255541769.jpg',
+		biografia: `
 # George R.R. Martin
 
 George Raymond Richard Martin, mais conhecido como **George R.R. Martin**, é um escritor, roteirista e produtor norte-americano, nascido em 20 de setembro de 1948, em Bayonne, Nova Jersey, EUA. Ele é famoso por sua série de livros de fantasia **"As Crônicas de Gelo e Fogo"** (*A Song of Ice and Fire*), que serviu de base para a série de televisão de sucesso *Game of Thrones*, da HBO.
@@ -117,8 +116,8 @@ George R.R. Martin é amplamente reconhecido como um dos mais influentes autores
 ---
 
 > *"Um leitor vive mil vidas antes de morrer. O homem que nunca lê vive apenas uma."* - George R.R. Martin
-        `,
-  },
+        `
+	}
 ];
 
 export default autores;
