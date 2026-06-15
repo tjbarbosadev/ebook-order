@@ -1,4 +1,5 @@
 <script>
+	import autores from '../../constants/autores';
 	import Menu from './Menu.svelte';
 	import MenuItem from './MenuItem.svelte';
 </script>
@@ -11,9 +12,9 @@
 		<MenuItem label="Séries" href="/" />
 	</Menu>
 	<Menu titulo="Principais autores">
-		<MenuItem label="J.K. Rowling" href="/autores/j-k-rowling" />
-		<MenuItem label="George R.R. Martin" href="/autores/george-r-r-martin" />
-		<MenuItem label="J.R.R. Tolkein" href="/autores/j-r-r-tolkien" />
+		{#each autores as autor}
+			<MenuItem label={autor.nome} href={`/autores/${autor.id}`} />
+		{/each}
 	</Menu>
 	<Menu titulo="Outras categorias">
 		<MenuItem label="Últimas Notícias" href="/" />

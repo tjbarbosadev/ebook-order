@@ -79,6 +79,38 @@ O impacto de J.R.R. Tolkien na literatura é imenso, e sua criação da Terra M�
         `
 	},
 	{
+		id: 'machado-de-assis',
+		nome: 'Machado de Assis',
+		imagem:
+			'https://imagenes.elpais.com/resizer/v2/5N5N7RRYQ2V4UXF4PVMKMSNANM.jpg?auth=c31f49e0ba0b623ddcbeeca9a20482763caff10281c495e12b6284ecdc0a2cb1&width=1960&height=1103&smart=true',
+		biografia: `
+    # Machado de Assis
+
+**Joaquim Maria Machado de Assis**, nascido em 21 de junho de 1839 no Rio de Janeiro, foi um escritor, poeta, dramaturgo e crítico literário brasileiro. É amplamente considerado o maior nome da literatura brasileira e um dos maiores escritores de língua portuguesa de todos os tempos. Foi fundador e primeiro presidente da **Academia Brasileira de Letras**.
+
+## Primeiros Anos e Início da Carreira
+Machado de Assis teve uma infância humilde no Morro do Livramento. Era filho de um pintor de paredes e uma lavradora açoriana. Apesar de não ter frequentado universidade, aprendeu francês e inglês por conta própria e iniciou sua carreira como tipógrafo e revisor. Começou a publicar poemas e contos ainda jovem, trabalhando como jornalista em diversos periódicos cariocas.
+
+## Principais Obras
+Sua obra é dividida por críticos em duas fases: a romântica e a realista. Os principais livros da fase madura incluem:
+
+1. **Memórias Póstumas de Brás Cubas** (1881) - marco do realismo brasileiro
+2. **Quincas Borba** (1891)
+3. **Dom Casmurro** (1899)
+4. **Esau e Jacó** (1904)
+5. **Memorial de Aires** (1908)
+
+Entre os contos, destacam-se "O Alienista", "A Cartomante", "O Espelho" e "A Igreja do Diabo". Machado também escreveu poesia, peças de teatro e crítica literária.
+
+## Características Literárias
+Machado de Assis é conhecido por seu estilo irônico, pessimismo refinado, domínio da psicologia dos personagens e por quebrar a quarta parede, conversando diretamente com o leitor. Sua obra antecipou temas do existencialismo e do modernismo.
+
+## Vida Pessoal e Legado
+Foi casado por 35 anos com **Carolina Augusta Xavier de Novais**, sua revisora e inspiração. Após a morte dela, escreveu o poema "A Carolina". Machado morreu em 29 de setembro de 1908. Sua obra influenciou gerações de escritores, de Graciliano Ramos a João Guimarães Rosa, e continua a ser estudada em universidades do mundo todo.
+
+> *"Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria."* - Machado de Assis (em *Memórias Póstumas de Brás Cubas*)`
+	},
+	{
 		id: 'george-r-r-martin',
 		nome: 'George R.R. Martin',
 		imagem:
@@ -117,6 +149,39 @@ George R.R. Martin é amplamente reconhecido como um dos mais influentes autores
 
 > *"Um leitor vive mil vidas antes de morrer. O homem que nunca lê vive apenas uma."* - George R.R. Martin
         `
+	},
+	{
+		id: 'george-orwell',
+		nome: 'George Orwell',
+		imagem:
+			'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxI8IGIl1NyozgPvipjd5B1-w0Mi_q-yk9A&s',
+		biografia: `
+    # George Orwell
+
+**Eric Arthur Blair**, mais conhecido pelo pseudônimo **George Orwell**, foi um escritor, jornalista e ensaísta britânico nascido em 25 de junho de 1903, em Motihari, Índia (então parte do Império Britânico). É famoso por seus romances distópicos **"A Revolução dos Bichos"** (*Animal Farm*) e **"1984"**, que se tornaram clássicos da literatura mundial e referências essenciais na crítica ao totalitarismo.
+
+## Primeiros Anos e Início da Carreira
+Orwell estudou na prestigiada escola Eton, mas, ao invés de seguir para a universidade, ingressou no serviço colonial britânico na Birmânia (hoje Mianmar). A experiência o tornou crítico do imperialismo. Na década de 1930, viveu entre os despossuídos em Londres e Paris, experiência que relatou em *Na Pior em Paris e em Londres* (1933). Lutou na Guerra Civil Espanhola ao lado das forças republicanas, onde foi ferido e desenvolveu repulsa ao stalinismo.
+
+## Principais Obras
+Suas obras mais influentes são:
+
+1. **A Revolução dos Bichos** (*Animal Farm*) - 1945
+2. **1984** (*Nineteen Eighty-Four*) - 1949
+
+Outros livros importantes incluem:
+- **Dias na Birmânia** (*Burmese Days*) - 1934
+- **Na Pior em Paris e em Londres** (*Down and Out in Paris and London*) - 1933
+- **O Caminho para Wigan Pier** (*The Road to Wigan Pier*) - 1937
+- **Homenagem à Catalunha** (*Homage to Catalonia*) - 1938
+
+## Impacto Cultural e Legado
+*1984* introduziu conceitos como "Grande Irmão" (*Big Brother*), "duplipensar" (*doublethink*) e "novilíngua" (*Newspeak*), que se tornaram parte do imaginário político ocidental. A obra de Orwell é constantemente citada em debates sobre vigilância estatal, manipulação da verdade e autoritarismo. Seu estilo direto, claro e engajado influenciou o jornalismo e a prosa inglesa do século XX.
+
+## Vida Pessoal e Fim de Vida
+Orwell lutou contra a tuberculose por muitos anos. Casou-se com Eileen O'Shaughnessy (1936) e, após a morte dela, com Sonia Brownell (1949). Morreu em 21 de janeiro de 1950, aos 46 anos, pouco após a publicação de *1984*. Deixou um filho adotivo, Richard Blair.
+
+> *"Quem controla o passado, controla o futuro; quem controla o presente, controla o passado."* - George Orwell, *1984*`
 	}
 ];
 
