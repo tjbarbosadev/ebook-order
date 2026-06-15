@@ -1,2 +1,17 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+.botao {
+	@apply rounded-md p-8 py-1;
+	@apply hover:cursor-pointer;
+}
+
+.botao.azul {
+	@apply bg-blue-500 text-white;
+	@apply hover:bg-blue-700;
+}
+
+.botao.vermelho {
+	@apply bg-red-500 text-white;
+	@apply hover:bg-red-700;
+}
